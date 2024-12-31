@@ -2,7 +2,7 @@
 const nextConfig = {
   output: "export",
   reactStrictMode: true,
-  output: 'export'
+  basePath: "/next-js-hosting",
 };
 
 export default nextConfig;
