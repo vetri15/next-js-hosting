@@ -3,7 +3,9 @@ const nextConfig = {
   output: "export",
   reactStrictMode: true,
   basePath: "/next-js-hosting",
-  unoptimized : true,
+  images: {
+    unoptimized: true,
+  }
 };
 
 export default nextConfig;
