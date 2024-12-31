@@ -4,7 +4,7 @@ const nextConfig = {
   reactStrictMode: true,
   basePath: "/next-js-hosting",
   images: {
-    unoptimized: true,
+    unoptimized: false,
   }
 };
 
