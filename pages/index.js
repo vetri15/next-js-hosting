@@ -55,7 +55,7 @@ export default function Home() {
                 width={20}
                 height={20}
               />
-              Deploy now 8
+              Deploy now 9
             </a>
             <a
               href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
